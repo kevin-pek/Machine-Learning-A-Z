@@ -1,2 +1,2 @@
 # Machine-Learning-A-Z
-Machine learning course in python using pandas and sklearn
+Course from udemy which taught how to implement machine learning algorithms in python using pandas and sklearn which I did in November 2020.
